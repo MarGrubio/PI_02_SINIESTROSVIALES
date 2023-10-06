@@ -119,5 +119,5 @@ En resumen, este proyecto no solo ha proporcionado insights valiosos sobre la se
 ## Contacto
 
 Para consultas, por favor contacta a [María García](mailto:data.mariagarcia@gmail.com) 
-[Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
+Perfil LinkedIn: [Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
 
