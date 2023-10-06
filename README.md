@@ -46,7 +46,7 @@ En resumen, la identificación de puntos atípicos en la distribución del núme
 - **Análisis de Distribución de Edad de Víctimas por Género**
 Observamos un gráfico que representa dos histogramas superpuestos en un mismo eje. Esto se hace para facilitar la comparación visual entre las edades de las víctimas de ambos sexos.
 
-![Distribución de Edad de Víctimas por Género](Distribución de Edad de Víctimas por Género.png)
+![Distribución de Edad de Víctimas por Género](/Distribución_de_Edad_de_Víctimas_por_Género.png)
 
    - Los resultados del gráfico revelan que las víctimas de sexo masculino tienden a tener edades comprendidas principalmente entre los 20 y los 40 años. Por otro lado, las víctimas de sexo femenino presentan una distribución más dispersa, con edades que se concentran en los grupos de 40, 60 y 80 años.
 
