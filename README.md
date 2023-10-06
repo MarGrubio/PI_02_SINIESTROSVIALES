@@ -115,6 +115,6 @@ Puedes emplear el conjunto de datos suministrado, denominado "siniestros_clean.c
 
 ## **Contacto**
 
-Para consultas, por favor contacta a [María García](mailto:data.mariagarcia@gmail.com) 
-Perfil LinkedIn: [Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
+- Para consultas, por favor contacta a [María García](mailto:data.mariagarcia@gmail.com) 
+- Perfil LinkedIn: [Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
 
