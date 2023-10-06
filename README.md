@@ -105,16 +105,15 @@ La implementación de Indicadores Clave de Rendimiento (KPIs) en Power BI nos pe
 
 En resumen, este proyecto no solo ha proporcionado insights valiosos sobre la seguridad vial en la Ciudad de Buenos Aires, sino que también ha sentado las bases para la toma de decisiones informadas y la implementación de políticas y medidas preventivas con el objetivo de reducir los accidentes mortales de tráfico y salvar vidas. Agradecemos a todas las partes involucradas y esperamos que este análisis contribuya a un futuro más seguro en las carreteras de la ciudad.
 
-## Uso
+## Opciones Disponibles para el Conjunto de Datos y el Panel de Power BI
 
-- Puedes utilizar el conjunto de datos proporcionado, "siniestros_clean.csv", para análisis o visualización adicionales.
-- El panel de Power BI está disponible para exploración interactiva de datos.
+Puedes emplear el conjunto de datos suministrado, denominado "siniestros_clean.csv", para llevar a cabo análisis adicionales o para crear visualizaciones. Además, tienes la opción de utilizar el panel de Power BI para explorar los datos de manera interactiva.
 
-## Agradecimientos
+## **Fuentes de Datos**
 
-- Fuente de datos: [Gobierno de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/movilidad/observatorio-de-movilidad-y-seguridad-vial/datos-oficiales)
+- [Gobierno de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/movilidad/observatorio-de-movilidad-y-seguridad-vial/datos-oficiales)
 
-## Contacto
+## **Contacto**
 
 Para consultas, por favor contacta a [María García](mailto:data.mariagarcia@gmail.com) 
 Perfil LinkedIn: [Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
