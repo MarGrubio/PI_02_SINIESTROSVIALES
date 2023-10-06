@@ -32,7 +32,8 @@ En relación a los datos utilizados en este proyecto:
 - **Análisis de Distribución del Número de Víctimas por Mes**
 Se analizó la distribución del número de víctimas en función de los meses utilizando un diagrama de caja (boxplot). Este tipo de visualización nos permite identificar puntos atípicos que indican eventos excepcionales en nuestros datos. A continuación, se presentan las principales conclusiones derivadas de este análisis:
 
-![Distribución del Número de Víctimas Por Mes](PI_02_SINIESTROSVIALES/Distribución_del_número_de_víctimas_por_mes.png)
+![Distribución del Número de Víctimas Por Mes](https://github.com/MarGrubio/PI_02_SINIESTROSVIALES/assets/119459797/c2240a69-ea9a-467d-a62d-3f8cbaa00549)
+
 
 
 Meses con Puntos Atípicos (2, 3, 4 y del 8 al 12):** Hemos identificado puntos atípicos en varios meses, específicamente en los meses 2, 3, 4 y en los meses del 8 al 12. Estos puntos atípicos sugieren que en estos períodos se produjeron eventos inusuales con un número inusualmente alto de víctimas en comparación con otros meses.
@@ -46,7 +47,7 @@ En resumen, la identificación de puntos atípicos en la distribución del núme
 - **Análisis de Distribución de Edad de Víctimas por Género**
 Observamos un gráfico que representa dos histogramas superpuestos en un mismo eje. Esto se hace para facilitar la comparación visual entre las edades de las víctimas de ambos sexos.
 
-![Distribución de Edad de Víctimas por Género](/Distribución_de_Edad_de_Víctimas_por_Género.png)
+![Distribución de Edad de Víctimas por Género](https://github.com/MarGrubio/PI_02_SINIESTROSVIALES/assets/119459797/8985345f-57b4-463c-a1b0-5bf926ef8f18)
 
    - Los resultados del gráfico revelan que las víctimas de sexo masculino tienden a tener edades comprendidas principalmente entre los 20 y los 40 años. Por otro lado, las víctimas de sexo femenino presentan una distribución más dispersa, con edades que se concentran en los grupos de 40, 60 y 80 años.
 
