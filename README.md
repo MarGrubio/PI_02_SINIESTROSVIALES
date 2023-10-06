@@ -32,7 +32,7 @@ En relación a los datos utilizados en este proyecto:
 - **Análisis de Distribución del Número de Víctimas por Mes**
 Se analizó la distribución del número de víctimas en función de los meses utilizando un diagrama de caja (boxplot). Este tipo de visualización nos permite identificar puntos atípicos que indican eventos excepcionales en nuestros datos. A continuación, se presentan las principales conclusiones derivadas de este análisis:
 
-![Distribución del Número de Víctimas Por Mes](/Distribución de Edad de Víctimas por Género.png)
+![Distribución del Número de Víctimas Por Mes]/Distribución_de_Edad_de_Víctimas_por_Género.png
 
 
 Meses con Puntos Atípicos (2, 3, 4 y del 8 al 12):** Hemos identificado puntos atípicos en varios meses, específicamente en los meses 2, 3, 4 y en los meses del 8 al 12. Estos puntos atípicos sugieren que en estos períodos se produjeron eventos inusuales con un número inusualmente alto de víctimas en comparación con otros meses.
