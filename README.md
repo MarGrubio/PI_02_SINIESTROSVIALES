@@ -97,6 +97,16 @@ En este proyecto de análisis de seguridad vial, se han calculado una serie de I
 
 Cada uno de estos KPIs proporciona información valiosa sobre la seguridad vial en nuestra región y puede guiar estrategias y políticas para reducir accidentes y mejorar la seguridad en nuestras carreteras.
 
+### **Conclusión**
+
+En este proyecto de análisis de Accidentes Mortales de Tráfico en la Ciudad de Buenos Aires (2016-2021), hemos abordado una problemática crítica que afecta a la sociedad argentina: la alarmante cantidad de víctimas mortales en siniestros viales. A través de la recopilación, limpieza y análisis de datos, hemos arrojado luz sobre esta problemática y proporcionado información valiosa que puede ser utilizada para tomar medidas concretas con el objetivo de mejorar la seguridad vial en la ciudad.
+
+Los datos revelaron cifras impactantes, con miles de vidas perdidas cada año en accidentes de tráfico, lo que demuestra la urgente necesidad de abordar este problema. Nuestro análisis identificó puntos atípicos en la distribución de víctimas por mes, resaltando la existencia de eventos excepcionales con un alto número de víctimas en momentos específicos del año. Además, observamos diferencias significativas entre los sexos en cuanto a las edades de las víctimas, lo que proporciona información valiosa para la formulación de estrategias de prevención.
+
+La implementación de Indicadores Clave de Rendimiento (KPIs) en Power BI nos permitió tener una visión más completa de la seguridad vial en la región. Estos KPIs ofrecen una herramienta efectiva para evaluar y comprender la situación, desde la frecuencia de accidentes hasta la gravedad de los incidentes, pasando por la distribución por edades y tipos de vehículos involucrados.
+
+En resumen, este proyecto no solo ha proporcionado insights valiosos sobre la seguridad vial en la Ciudad de Buenos Aires, sino que también ha sentado las bases para la toma de decisiones informadas y la implementación de políticas y medidas preventivas con el objetivo de reducir los accidentes mortales de tráfico y salvar vidas. Agradecemos a todas las partes involucradas y esperamos que este análisis contribuya a un futuro más seguro en las carreteras de la ciudad.
+
 ## Uso
 
 - Puedes utilizar el conjunto de datos proporcionado, "siniestros_clean.csv", para análisis o visualización adicionales.
@@ -108,4 +118,6 @@ Cada uno de estos KPIs proporciona información valiosa sobre la seguridad vial 
 
 ## Contacto
 
-Para consultas, por favor contacta a [María García](mailto:data.mariagarcia@gmail.com) [Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
+Para consultas, por favor contacta a [María García](mailto:data.mariagarcia@gmail.com) 
+[Perfíl LinkedIn](https://www.linkedin.com/in/mariagarciarubio/).
+
