@@ -1,5 +1,5 @@
 # **Análisis de Accidentes Mortales de Tráfico en la Ciudad de Buenos Aires (2016-2021)**
-                                ## Proyecto Individual #2 
+  ## Proyecto Individual #2 
 
 ## **Introducción**
 
