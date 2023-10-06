@@ -34,11 +34,11 @@ Se analizó la distribución del número de víctimas en función de los meses u
 
 ![Distribución del Número de Víctimas Por Mes](https://github.com/MarGrubio/PI_02_SINIESTROSVIALES/assets/119459797/c2240a69-ea9a-467d-a62d-3f8cbaa00549)
 
-    - **Meses con Puntos Atípicos (2, 3, 4 y del 8 al 12):** Hemos identificado puntos atípicos en varios meses, específicamente en los meses 2, 3, 4 y en los meses del 8 al 12. Estos puntos atípicos sugieren que en estos períodos se produjeron eventos inusuales con un número inusualmente alto de víctimas en comparación con otros meses.
+- **Meses con Puntos Atípicos (2, 3, 4 y del 8 al 12):** Hemos identificado puntos atípicos en varios meses, específicamente en los meses 2, 3, 4 y en los meses del 8 al 12. Estos puntos atípicos sugieren que en estos períodos se produjeron eventos inusuales con un número inusualmente alto de víctimas en comparación con otros meses.
 
-    - **Mes 3 (Marzo) con 3 Víctimas:** El mes de marzo se destaca con un punto atípico que registra 3 víctimas en un solo evento. Este hallazgo señala un suceso singular que merece una atención especial y un análisis detallado para comprender sus causas y tomar medidas adecuadas.
+- **Mes 3 (Marzo) con 3 Víctimas:** El mes de marzo se destaca con un punto atípico que registra 3 víctimas en un solo evento. Este hallazgo señala un suceso singular que merece una atención especial y un análisis detallado para comprender sus causas y tomar medidas adecuadas.
 
-    - **Meses con 2 Víctimas (2, 3, 4 y del 8 al 12):** Además, hemos observado la presencia de puntos atípicos en varios meses que muestran 2 víctimas en eventos particulares. Estos meses también requieren un análisis adicional para investigar los eventos excepcionales que podrían haber contribuido a estos resultados.
+- **Meses con 2 Víctimas (2, 3, 4 y del 8 al 12):** Además, hemos observado la presencia de puntos atípicos en varios meses que muestran 2 víctimas en eventos particulares. Estos meses también requieren un análisis adicional para investigar los eventos excepcionales que podrían haber contribuido a estos resultados.
 
 En resumen, la identificación de puntos atípicos en la distribución del número de víctimas por mes resalta la existencia de eventos inusuales con un alto número de víctimas en momentos específicos del año. Este análisis puede ser fundamental para comprender patrones y tendencias en la seguridad vial y orientar decisiones y acciones en materia de prevención de accidentes.
 
