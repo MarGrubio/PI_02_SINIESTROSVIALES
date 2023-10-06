@@ -55,47 +55,47 @@ En resumen, el análisis de edades de las víctimas sugiere diferencias signific
 
 Tras el análisis exploratorio, se calcularon los KPIs en Power BI utilizando el conjunto de datos "Siniestros" y los datos del sitio web oficial de la Ciudad de Buenos Aires ("Comunas"). Se creó un panel para presentar el informe y la visualización de datos de manera interactiva.
 
-### **KPIs Propuestos**
+## **KPIs Propuestos**
 
 Puedes agregar una sección en tu archivo README para describir los KPIs que has calculado y explicar por qué son relevantes en el contexto de tu análisis de seguridad vial. Aquí tienes un ejemplo de cómo podrías estructurar esa sección:
 
-## KPIs de Seguridad Vial
+### KPIs de Seguridad Vial
 
 En este proyecto de análisis de seguridad vial, se han calculado una serie de Indicadores Clave de Desempeño (KPIs) para evaluar y comprender la situación de seguridad vial en nuestra región. A continuación, se presentan los KPIs y se proporciona una breve explicación de por qué son importantes:
 
-### Tasa de Accidentes Viales
+**Tasa de Accidentes/víctimas Viales**
 
-   **Tasa de Accidentes Viales:** Este KPI nos permite evaluar la frecuencia de accidentes en relación con la cantidad de vehículos en circulación o la longitud de las carreteras. Es esencial para comprender la densidad de accidentes en nuestras carreteras y su variación a lo largo del tiempo.
+- Tasa de Accidentes Viales: Este KPI nos permite evaluar la frecuencia de accidentes en relación con la cantidad de vehículos en circulación o la longitud de las carreteras. Es esencial para comprender la densidad de accidentes en nuestras carreteras y su variación a lo largo del tiempo.
 
-   **Tasa de Víctimas en Accidentes Viales:** Similar a la tasa de accidentes, esta métrica nos ayuda a evaluar la seguridad vial en función de las víctimas involucradas. Puede arrojar luz sobre la gravedad de los accidentes y la eficacia de las medidas de seguridad.
+- Tasa de Víctimas en Accidentes Viales: Similar a la tasa de accidentes, esta métrica nos ayuda a evaluar la seguridad vial en función de las víctimas involucradas. Puede arrojar luz sobre la gravedad de los accidentes y la eficacia de las medidas de seguridad.
 
 ### KPIs de Gravedad de Incidentes
 
-   **Tasa de Mortalidad Vial:** Este indicador nos permite evaluar el número de fallecimientos en accidentes viales en relación con la población o la cantidad de accidentes. Es crucial para comprender la gravedad de la seguridad vial en nuestra región.
+- Tasa de Mortalidad Vial: Este indicador nos permite evaluar el número de fallecimientos en accidentes viales en relación con la población o la cantidad de accidentes. Es crucial para comprender la gravedad de la seguridad vial en nuestra región.
 
-   **Tasa de Lesiones Graves:** Al igual que la tasa de mortalidad, esta métrica se enfoca en evaluar las lesiones graves en accidentes viales. Proporciona información valiosa sobre el impacto de los accidentes en la salud de las personas.
+- Tasa de Lesiones Graves: Al igual que la tasa de mortalidad, esta métrica se enfoca en evaluar las lesiones graves en accidentes viales. Proporciona información valiosa sobre el impacto de los accidentes en la salud de las personas.
 
 ### KPIs de Edades de Víctimas
 
-   **Distribución de Edades de Víctimas:** Este KPI nos ayuda a identificar grupos de edad particularmente afectados por los accidentes viales. Puede guiar estrategias de prevención dirigidas a grupos vulnerables.
+- Distribución de Edades de Víctimas: Este KPI nos ayuda a identificar grupos de edad particularmente afectados por los accidentes viales. Puede guiar estrategias de prevención dirigidas a grupos vulnerables.
 
-   **Tasa de Mortalidad por Grupos de Edad:** Desglosar la tasa de mortalidad por grupos de edad nos permite comprender mejor los patrones de riesgo y adaptar las medidas de seguridad a grupos específicos.
+- Tasa de Mortalidad por Grupos de Edad: Desglosar la tasa de mortalidad por grupos de edad nos permite comprender mejor los patrones de riesgo y adaptar las medidas de seguridad a grupos específicos.
 
 ### KPIs de Tipos de Vehículos
 
-   **Tasa de Accidentes de Motocicletas:** Dado el aumento de motocicletas en nuestras carreteras, esta métrica evalúa la seguridad de este grupo de vehículos en particular.
+- Tasa de Accidentes de Motocicletas: Dado el aumento de motocicletas en nuestras carreteras, esta métrica evalúa la seguridad de este grupo de vehículos en particular.
 
-   **Tasa de Accidentes de Vehículos Pesados:** Los vehículos pesados pueden representar un riesgo adicional en carreteras. Este KPI evalúa la frecuencia de accidentes con estos vehículos.
+- Tasa de Accidentes de Vehículos Pesados: Los vehículos pesados pueden representar un riesgo adicional en carreteras. Este KPI evalúa la frecuencia de accidentes con estos vehículos.
 
 ### KPIs de Días y Horarios de Mayor Riesgo
 
-   **Tasa de Accidentes en Días de Fin de Semana:** Identificar los días de mayor riesgo nos permite enfocar la aplicación de medidas preventivas en momentos específicos de la semana.
+- Tasa de Accidentes en Días de Fin de Semana: Identificar los días de mayor riesgo nos permite enfocar la aplicación de medidas preventivas en momentos específicos de la semana.
 
-   **Tasa de Accidentes en Horas Pico:** Evaluar las horas de mayor tráfico es crucial para comprender los momentos de mayor riesgo en nuestras carreteras.
+- Tasa de Accidentes en Horas Pico: Evaluar las horas de mayor tráfico es crucial para comprender los momentos de mayor riesgo en nuestras carreteras.
 
 Cada uno de estos KPIs proporciona información valiosa sobre la seguridad vial en nuestra región y puede guiar estrategias y políticas para reducir accidentes y mejorar la seguridad en nuestras carreteras.
 
-### **Conclusión**
+## **Conclusión**
 
 En este proyecto de análisis de Accidentes Mortales de Tráfico en la Ciudad de Buenos Aires (2016-2021), hemos abordado una problemática crítica que afecta a la sociedad argentina: la alarmante cantidad de víctimas mortales en siniestros viales. A través de la recopilación, limpieza y análisis de datos, hemos arrojado luz sobre esta problemática y proporcionado información valiosa que puede ser utilizada para tomar medidas concretas con el objetivo de mejorar la seguridad vial en la ciudad.
 
